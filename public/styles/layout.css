@@ -1,0 +1,31 @@
+body{
+    background-image: url('/images/stars.gif');
+}
+
+h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.home-img{
+    display: flex;
+    justify-content: center;
+}
+
+.run-text{
+    color: white;
+}
+
+.typewrite{
+    color: white;
+    font-weight: bolder;
+    margin-left: 10px;
+}
+
+h3{
+   display: flex;
+   justify-content: center;
+}
+
